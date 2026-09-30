@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/*
+!data/README.md
+outputs/
+artifacts/
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.csv
